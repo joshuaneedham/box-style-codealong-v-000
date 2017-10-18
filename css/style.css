@@ -44,6 +44,13 @@ figcaption {
   background-size: cover;
 }
 
+.light-fade {
+
+}
+
+.medium-fade {
+  
+}
 /*/////// MEDIA ////////*/
 
 img, video, audio, iframe, table, form {
@@ -126,8 +133,6 @@ img, video, audio, iframe, table, form {
 
 /*////////// LOGO //////////*/
 
-
-
 #logo h1 {
   font-family: 'Clicker Script', cursive;
 }
@@ -145,8 +150,6 @@ section {
 }
 
 /*////////// DETAILS //////////*/
-
-
 
 #details div {
   height: 221px;
